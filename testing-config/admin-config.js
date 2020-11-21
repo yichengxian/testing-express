@@ -1,0 +1,7 @@
+/**
+ * config
+ * @type {{}}
+ */
+module.exports = {
+
+}

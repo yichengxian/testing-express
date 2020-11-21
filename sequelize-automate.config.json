@@ -1,0 +1,21 @@
+{
+  "dbOptions": {
+    "database": "chomoo_testing",
+    "username": "root",
+    "password": "Xnm7QmVE",
+    "dialect": "mysql",
+    "host": "gz-cdb-c12i98lr.sql.tencentcdb.com",
+    "port": 59666,
+    "logging": true,
+    "define": {
+      "timestamps": false,
+      "charset": "utf8mb4"
+    }
+  },
+  "options": {
+    "type": "js",
+    "camelCase": true,
+    "dir": "./testing-models/models"
+  }
+}
+
