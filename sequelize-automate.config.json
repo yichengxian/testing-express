@@ -1,11 +1,11 @@
 {
   "dbOptions": {
-    "database": "chomoo_testing",
+    "database": "testing",
     "username": "root",
-    "password": "Xnm7QmVE",
+    "password": "admin",
     "dialect": "mysql",
-    "host": "gz-cdb-c12i98lr.sql.tencentcdb.com",
-    "port": 59666,
+    "host": "127.0.01",
+    "port": 3306,
     "logging": true,
     "define": {
       "timestamps": false,
